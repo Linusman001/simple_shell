@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Isaac Baccah <[isaacbaccah](https://github.com/isaacbaccah)>
-* Liliyosa <[liliyosa](https://github.com/liliyosa)>
+* Linus Chidera <[Linusman001](https://github.com/Linusman001)>
+* Goodness Nwaneri <[lindamami](https://github.com/lindamami)>
 
 ## License :lock:
 
