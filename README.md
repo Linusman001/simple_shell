@@ -176,7 +176,7 @@ $ echo "echo 'all good' && echo 'hello'" | ./shellby
 ```
 
 #### || - OR logical operator
-`command1 || command2`: `command2` is executed if, and only if, `command1` returns a non-zero exit status.
+`command1 || command2`: `command2` is executed if and only if, `command1` returns a non-zero exit status.
 
 Example:
 ```
