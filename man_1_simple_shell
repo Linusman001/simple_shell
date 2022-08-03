@@ -156,7 +156,7 @@ Prints the current environment.
 .RS
 Usage: \fBsetenv [VARIABLE] [VALUE]\fR
 
-Initializes a new environment variable, or modifies an existing one.
+Initializes a new environment variable or modifies an existing one.
 
 Upon failure, prints a message to \fBstderr\fR
 .RE
