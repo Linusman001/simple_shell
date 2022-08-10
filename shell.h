@@ -4,7 +4,7 @@
 /*
  * File: shell.h
  * Auth: Goodness Nwaneri
- *       Linus Chidera.
+ *       Linus Chidera
  */
 
 #include <fcntl.h>

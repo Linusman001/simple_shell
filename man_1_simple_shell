@@ -138,7 +138,7 @@ If \fIname\fR is already an alias, its value is replaced with \fIVALUE\fR.
 .RS
 Usage: \fBexit [STATUS]\fR
 
-Exits the shell.
+Exits the shell
 
 The \fBSTATUS\fR argument is the integer used to exit the shell.
 
